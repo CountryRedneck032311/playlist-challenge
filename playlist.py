@@ -4,7 +4,7 @@ SONGS = [
     ("Imagine", "John Lennon"),
     ("Blinding Lights", "The Weeknd"),
     ("Viva La Vida", "Coldplay"),
-     ("Three Wooden Crosses", "Alan Jackson"),
+     ("Dinosouar ", "Hank Willaims jr"),
     ]
 
 
